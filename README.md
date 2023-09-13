@@ -1,4 +1,4 @@
-# 一周好友 (后端) - TomodachiChan-frontend
+# 公诸同好 (前端) - TomodachiChan-frontend
 
 ## 📝 项目介绍
 
