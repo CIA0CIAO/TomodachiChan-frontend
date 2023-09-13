@@ -2,7 +2,7 @@
 
 ## 📝 项目介绍
 
-一周好友是一个以标签和队伍为核心的社交平台, 旨在帮助用户快速找到志同道合的伙伴, 组队出发, 一起同行
+公诸同好是一个以标签和队伍为核心的社交平台, 旨在帮助用户快速找到志同道合的伙伴
 
 此为该项目的前端部分, 后端部分请移步 [TomodachiChan-backend](https://github.com/CIA0CIAO/TomodachiChan-backend)
 
