@@ -16,7 +16,7 @@ const routes: RouteRecordRaw[] = [
     children: [
       {
         path: '/home',
-        meta: { title: '朝花夕逝' },
+        meta: { title: '公诸同好' },
         component: () => import(`@/pages/home/Home.vue`),
       },
       {

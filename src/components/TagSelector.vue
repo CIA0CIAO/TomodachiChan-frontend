@@ -202,7 +202,7 @@ const activeCollapseNames = ref(commonTags.map((commonTag) => commonTag.category
     <van-empty
         v-show="displayedTags.length === 0"
         description="暂无相关标签"
-        image="search"
+        image="public/isNull.png"
     />
   </van-cell-group>
 </template>

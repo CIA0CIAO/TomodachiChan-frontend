@@ -95,7 +95,7 @@ const activeTab = ref(0)
       <van-empty
           v-if="!joinedTeams.length"
           description="暂无加入的队伍"
-          image="search"
+          image="../public/isNull.png"
       />
     </van-tab>
     <!-- 创建的队伍 -->
@@ -112,7 +112,7 @@ const activeTab = ref(0)
       <van-empty
           v-if="!ownedTeams.length"
           description="暂无创建的队伍"
-          image="search"
+          image="../public/isNull.png"
       />
     </van-tab>
   </van-tabs>

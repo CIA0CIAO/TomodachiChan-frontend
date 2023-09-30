@@ -42,6 +42,12 @@ onMounted(() => {
   <!-- 登录按钮 -->
   <template v-if="!isLogin">
     <van-col offset="1" span="22" style="margin-top: 16px">
+      <van-row justify="center" style="margin: 32px">
+          <van-image
+                  src="public/error.png"
+                  width="40%"
+          />
+      </van-row>
       <van-button
           block
           icon="contact"
